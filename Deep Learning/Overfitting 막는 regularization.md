@@ -37,7 +37,9 @@ NN이 학습을 시키다가 너무 많이 학습이 되면 validation error가 
 ## DropOut
 - DropOut increases the generalization performance of the neural network by restricting the model capacity
 ```
-한 layer가 있을때 그 layer의 node들을 몇개 꺼버리는 것. 중요한 것을 학습할때만 몇개 0으로 만들고 나머지는 씀. test할땐 다 쓰고. 끄는 것도 random으로
+한 layer가 있을때 그 layer의 node들을 몇개 꺼버리는 것. 중요한 것을 학습할때만 몇개 0으로 만들고 나머지는 씀. 
+
+test할땐 다 쓰고. 끄는 것도 random으로
 ```
 
 ## DropConnect
