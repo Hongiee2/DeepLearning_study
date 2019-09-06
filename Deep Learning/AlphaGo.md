@@ -13,7 +13,8 @@ MCTS에 특화된 논문이고 DL은 MCTS를 정의하기 위한 구성으로 �
 ```
 
 ```
-여담이지만 Silver도 기존 Domain 바둑을 MCTS로 풀려던 사람인데 거기 DL이란 방법론을 잘 섞어서 문제해결한 것이라네. 기존 Domain에 DL을 잘섞어 새로운 방법론을 제안한다는 것
+여담이지만 Silver도 기존 Domain 바둑을 MCTS로 풀려던 사람인데 거기 DL이란 방법론을 잘 섞어서 문제해결한 것이라네. 
+기존 Domain에 DL을 잘섞어 새로운 방법론을 제안한다는 것
 ```
 
 ## Complexity of Go
