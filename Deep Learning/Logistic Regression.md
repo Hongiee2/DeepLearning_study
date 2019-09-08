@@ -22,5 +22,10 @@ Cost fuc이 줄어든다해서 목적을 전부 이룬건 아님
 - 분류에서 Cross entropy가 더 잘 작동(정답만 신경쓰면되니)
 
 
+## Logistic Regrssion VS MLP
+- Depth의 차이. Logistic는 784 > 10으로 MLP은 레이어 더 추가해서 784 > 256 > 128 > 10 성능은 당연히 후자가 더 좋음 
+- linear하게 layer만 쌓으면 linear한 것 밖에만 못 예측. Activation Func으로 non-linear하게 해줘야 좀 더 복잡한 함수 표현 가능 
+
+
 ## Tips
 - Softmax 취하기 전에 나온 값을 logit이라 부름
