@@ -3,7 +3,8 @@
 ```
 대표적 Unsupervised Learning Model 
 
-NN을 학습시킬때 Pretrain으로 활용됨 - 미리 이미지만 가지고 Network의 길을 터놓고 초기값으로해서 NN 학습시키면 성능이 잘나옴 
+NN을 학습시킬때 Pretrain으로 활용됨 - 미리 이미지만 가지고 Network의 길을 터놓고 
+초기값으로해서 NN 학습시키면 성능이 잘나옴 
 
 ```
 
