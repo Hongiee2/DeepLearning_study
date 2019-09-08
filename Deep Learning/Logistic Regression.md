@@ -20,3 +20,7 @@ Cost fuc이 줄어든다해서 목적을 전부 이룬건 아님
 - focuses on correct classification vs  focusses on fitting values(모든 값을 다 맞추는데 목적을 두고 있음) 
 
 - 분류에서 Cross entropy가 더 잘 작동(정답만 신경쓰면되니)
+
+
+## Tips
+- Softmax 취하기 전에 나온 값을 logit이라 부름
