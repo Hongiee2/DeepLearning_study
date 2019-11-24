@@ -1,7 +1,7 @@
 # DeepLearning_study
 
 ## Blog
-[Deeplearning](https://eehoeskrap.tistory.com/)  관련 자료 정리를 잘함
+[Deep learning](https://eehoeskrap.tistory.com/)  관련 자료 정리를 잘함
 
 [쉽게 씌어진 word2vec](https://dreamgonfly.github.io/machine/learning,/natural/language/processing/2017/08/16/word2vec_explained.html) - feature representation
 
