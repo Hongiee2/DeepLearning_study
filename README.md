@@ -11,3 +11,4 @@
 
 [SketchRNN](https://yjucho1.github.io/tensorflow/quick-draw/)
 -
+[논문 정리를 잘해 놓음](https://github.com/Hongiee2/notes)
