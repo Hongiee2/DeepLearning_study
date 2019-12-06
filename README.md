@@ -7,8 +7,10 @@
 
 [딥러닝이란 무엇인가?](http://research.sualab.com/introduction/2017/10/10/what-is-deep-learning-2.html) - feature representation learning
 
-[Siamese Neural Networks for One-shot Image Recognition](https://jayhey.github.io/deep%20learning/2018/02/06/saimese_network/) - One-shot 
+[Siamese Neural Networks for One-shot Image Recognition](https://jayhey.github.io/deep%20learning/2018/02/06/saimese_network/) - One-shot
+
 <br>
+
 [SketchRNN](https://yjucho1.github.io/tensorflow/quick-draw/)
 
 
