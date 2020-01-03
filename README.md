@@ -17,6 +17,8 @@
 [논문 정리를 잘해 놓음](https://github.com/Hongiee2/notes)
  
  
+## 환경설정
+[Pytorch](https://dreamgonfly.github.io/2018/01/30/conda-pytorch.html)
 
 ---
 방학동안 
