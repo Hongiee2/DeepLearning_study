@@ -19,7 +19,3 @@
  
 ## 환경설정
 [Pytorch](https://dreamgonfly.github.io/2018/01/30/conda-pytorch.html)
-
----
-방학동안 
- 
