@@ -1,4 +1,4 @@
-## Bias and Variance
+## [Bias and Variance](https://www.opentutorials.org/module/3653/22071)
 ![](https://lh3.googleusercontent.com/rq_iMVSuIK1K4ykF9RQnF05hH6xxWm3lmNPWuQ3hfK9r4-3GBIuCxCW3L7QH53M3EIwbVWOcaRiRLDc0AIJ-0uq8-qzavpSWPceQ1lchq-ZPF16l3KLst24-x6MbGYFqQbEJmEI3gEc)
 정답 하나를 맞추기 위해 컴퓨터는 여러 번의 예측값 내놓기를 시도하는데,  
 컴퓨터가 내놓은 예측값의 동태를 묘사하는 표현이 '편향' 과 '분산' 입니다.
